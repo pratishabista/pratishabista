@@ -1,5 +1,5 @@
 # Hello!🐬
 
 <div style="display: flex; justify-content: center;">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratishabista&layout=compact" style="width: 400px;">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratishabista&layout=compact" style="width: 600px;">
 </div>
