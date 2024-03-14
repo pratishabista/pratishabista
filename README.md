@@ -1,6 +1,6 @@
-<p style="font-size: 24px; text-align: center;">
+<h2 align="center">
   👾 Welcome to my GitHub profile! 👾
-</p>
+</h2>
 <h3 align="center">A passionate learner from Nepal.</h3>
 
 - 🌱 I’m currently learning **React**
