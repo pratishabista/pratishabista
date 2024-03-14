@@ -18,6 +18,8 @@
 <a href="https://instagram.com/pratisha.b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratisha.b" height="30" width="40" /></a>
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratishabista&show_icons=true&locale=en" alt="pratishabista" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratishabista&" alt="pratishabista" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratishabista&layout=donut&langs_count=10)](https://github.com/pratishabista/github-readme-stats)
 
