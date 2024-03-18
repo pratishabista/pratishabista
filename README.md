@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratishabista&show_icons=true&locale=en" alt="pratishabista" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratishabista&" alt="pratishabista" /></p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratishabista&layout=donut&langs_count=10)](https://github.com/pratishabista/github-readme-stats)
 
